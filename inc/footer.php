@@ -1,68 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Register - Brand</title>
-    <link rel="icon" type="image/png" sizes="176x60" href="assets/img/img%20store/logo_store.png">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
-    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
-    <link rel="stylesheet" href="assets/fonts/material-icons.min.css">
-    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
-    <link rel="stylesheet" href="assets/fonts/fontawesome5-overrides.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
-    <link rel="stylesheet" href="assets/css/smoothproducts.css">
-</head>
-
-<body>
-    <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-white clean-navbar">
-        <div class="container"><a href="index.html"><img class="d-flex float-left"
-                    src="assets/img/img%20store/logo_store.png" style="width: 140px;"></a><a class="navbar-brand logo"
-                href="#"></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span
-                    class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navcol-1">
-                <ul class="nav navbar-nav mx-auto">
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="index.html"
-                            style="color: #f2af58;">Home</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="catalog-page.html">Produtos</a>
-                    </li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="contact-us.html">contato</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link active" href="registration.html"
-                            style="background-color: #ffffff;color: #083b66;">CADASTRE-SE</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="login.html"
-                            style="background-color: #ffffff;color: #74d14c;">Login</a></li>
-                </ul>
-            </div><a href="#"><i class="fa fa-heart"
-                    style="font-size: 20px;margin-right: 40px;color: rgb(177,17,17);"></i></a><a
-                href="shopping-cart.html"><i class="fa fa-shopping-cart"
-                    style="color: rgb(0,0,0);height: 20px;"></i></a>
-        </div>
-    </nav>
-    <main class="page registration-page">
-        <section class="clean-block clean-form dark">
-            <div class="container">
-                <div class="block-heading">
-                    <h2 style="color: #083b66;">Cadastre-se</h2>
-                    <p>Já tem uma conta?&nbsp;<a href="login.html" style="color: #f2af58;">Fazer Login!</a></p>
-                </div>
-                <form>
-                    <div class="form-group"><label for="name">Nome</label><input class="form-control item" type="text"
-                            id="name" required=""></div>
-                    <div class="form-group"><label for="password">Senha</label><input class="form-control item"
-                            type="password" id="password" required=""></div>
-                    <div class="form-group"><label for="email">E-mail</label><input class="form-control item"
-                            type="email" id="email" required=""></div><button class="btn btn-primary btn-block"
-                        type="submit" style="background-color: #083b66;border-color: #083b66;">Cadastrar</button>
-                </form>
-            </div>
-        </section>
-    </main>
-    <footer>
+<footer>
         <div class="footer-basic">
             <div class="social"><a href="#"><i class="icon ion-social-instagram" style="color: #083b66;"></i></a><a
                     href="#"><i class="icon ion-social-snapchat" style="color: #083b66;"></i></a><a href="#"><i
@@ -70,10 +6,10 @@
                 <a href="#"><i class="icon ion-social-facebook" style="color: #083b66;"></i></a>
             </div>
             <ul class="list-inline" style="color: #f2af58;">
-                <li class="list-inline-item"><a href="index.html">Home</a></li>
-                <li class="list-inline-item"><a href="catalog-page.html">Produtos</a></li>
-                <li class="list-inline-item"><a href="index.html">Sobre</a></li>
-                <li class="list-inline-item"><a href="contact-us.html">Contato</a></li>
+                <li class="list-inline-item"><a href="index.php">Home</a></li>
+                <li class="list-inline-item"><a href="catalog-page.php">Produtos</a></li>
+                <li class="list-inline-item"><a href="index.php">Sobre</a></li>
+                <li class="list-inline-item"><a href="contact-us.php">Contato</a></li>
             </ul>
             <p class="copyright" style="color: #083b66;">CNPJ: 00.000.000/0000-00 - Avenida das Nações, 1000 - São Paulo
                 - SP - CEP: 01001-010</p>
@@ -152,6 +88,7 @@
             </div>
             <p class="copyright">iProducts © 2019</p>
     </footer>
+
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
