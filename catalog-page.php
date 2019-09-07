@@ -81,7 +81,7 @@
                                         <div class="clean-product-item">
                                             <div class="image"><a href="#"><img class="img-fluid d-block mx-auto"
                                                         src="assets/img/img%20store/iphone-xr-white.png"></a></div>
-                                            <div class="product-name"><a href="#">iphone2</a></div>
+                                            <div class="product-name"><a href="#">ipad1</a></div>
                                             <div class="about">
                                                 <div class="price">
                                                     <h3>$100</h3>
@@ -95,7 +95,7 @@
                                         <div class="clean-product-item">
                                             <div class="image"><a href="#"><img class="img-fluid d-block mx-auto"
                                                         src="assets/img/img%20store/iphone-xr-orange.png"></a></div>
-                                            <div class="product-name"><a href="#">iphone3</a></div>
+                                            <div class="product-name"><a href="#">mackbook1</a></div>
                                             <div class="about">
                                                 <div class="price">
                                                     <h3>$100</h3>
@@ -105,51 +105,48 @@
                                         </div>
                                     </div>
 
-                                    <div class="col-12 col-md-6 col-lg-4">
-<!--
+                                    <div class="col-12 col-md-6 col-lg-4 item mackbook">
                                         <div class="clean-product-item">
                                             <div class="image"><a href="#"><img class="img-fluid d-block mx-auto"
-                                                        src="assets/img/tech/image2.jpg"></a></div>
-                                            <div class="product-name"><a href="#">Lorem ipsum dolor sit amet</a></div>
+                                                        src="assets/img/img%20store/iphone-xr-black.png"></a></div>
+                                            <div class="product-name"><a href="#">mackbook2</a></div>
                                             <div class="about">
                                                 <div class="price">
                                                     <h3>$100</h3>
-                                                </div>
+                                                </div><a class="btn btn-sm border rounded-0" role="button"
+                                                    style="color: #083b66;" href="product-page.php">Saiba Mais</a>
                                             </div>
                                         </div>
-
                                     </div>
 
-                                    <div class="col-12 col-md-6 col-lg-4">
-
+                                    <div class="col-12 col-md-6 col-lg-4 item iphone">
                                         <div class="clean-product-item">
                                             <div class="image"><a href="#"><img class="img-fluid d-block mx-auto"
-                                                        src="assets/img/tech/image2.jpg"></a></div>
-                                            <div class="product-name"><a href="#">Lorem ipsum dolor sit amet</a></div>
+                                                        src="assets/img/img%20store/iphone-xr-white.png"></a></div>
+                                            <div class="product-name"><a href="#">iphone2</a></div>
                                             <div class="about">
                                                 <div class="price">
                                                     <h3>$100</h3>
-                                                </div>
+                                                </div><a class="btn btn-sm border rounded-0" role="button"
+                                                    style="color: #083b66;" href="product-page.php">Saiba Mais</a>
                                             </div>
                                         </div>
-
                                     </div>
 
-                                    <div class="col-12 col-md-6 col-lg-4">
-
+                                    <div class="col-12 col-md-6 col-lg-4 item ipad">
                                         <div class="clean-product-item">
                                             <div class="image"><a href="#"><img class="img-fluid d-block mx-auto"
-                                                        src="assets/img/tech/image2.jpg"></a></div>
-                                            <div class="product-name"><a href="#">Lorem ipsum dolor sit amet</a></div>
+                                                        src="assets/img/img%20store/iphone-xr-orange.png"></a></div>
+                                            <div class="product-name"><a href="#">ipad2</a></div>
                                             <div class="about">
                                                 <div class="price">
                                                     <h3>$100</h3>
-                                                </div>
+                                                </div><a class="btn btn-sm border rounded-0" role="button"
+                                                    style="color: #083b66;" href="product-page.php">Saiba Mais</a>
                                             </div>
                                         </div>
-
                                     </div>
--->
+
                                 </div>
                                 <nav>
                                     <ul class="pagination"></ul>

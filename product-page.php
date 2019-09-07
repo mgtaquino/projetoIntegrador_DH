@@ -19,7 +19,7 @@
                                                 class="img-fluid d-block mx-auto"
                                                 src="assets/img/tech/image1.jpg"></a><a
                                             href="assets/img/tech/image1.jpg"><img class="img-fluid d-block mx-auto"
-                                                src="assets/img/tech/image1.jpg"></a><a
+                                                src="assets/img/tech/image2.jpg"></a><a
                                             href="assets/img/tech/image1.jpg"><img class="img-fluid d-block mx-auto"
                                                 src="assets/img/tech/image1.jpg"></a></div>
                                 </div>
